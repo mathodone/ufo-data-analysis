@@ -1,9 +1,3 @@
-/classifier/ - contains classifier, notebook detailing classifier training, html version of the notebook.
-
-In order to read the writeup, either open the html file or use jupyter to load the notebook file
-
-Note: if you load the notebook file, you will have to install the packages used in the notebook if you don't already have them installed
-
 /ufo_api/ - contains django api for classifier. logic handling post requests can be found in ufo_api/App/views.py
 
 Running django api:
