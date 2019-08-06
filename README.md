@@ -1,2 +1,3 @@
 # ufo-data-analysis
-Data Scientist take home test I was asked to complete.
+
+This is a data analysis writeup I performed for a company as part of their interview process for their Data Scientist position. I was asked to create a classification model using a UFO data set they provided.
